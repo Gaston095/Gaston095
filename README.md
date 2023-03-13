@@ -1,8 +1,10 @@
-#Gaston Salas.
+# Hola, mi nombre es *Gaston Salas*
 
-##Desarrollador web Front End.
+> Actualmente estudio para ser *Desarrollador web Front End*.
+> 
+> Tambien estudio Ing. en Sistemas de Informacion.
 
-###Algunos comandos aprendidos.
+### Algunos comandos aprendidos.
 
 |Comando|Descripcion               |
 |-------|--------------------------|
