@@ -1,6 +1,13 @@
-- 👋 Hola, soy Gaston Salas!
-- Estudio desarrollo Web!
-- Manejo HTML, CSS, Javascript.
-- Estoy capacitandome en Angular, BBDD y Java. 
-- Estudiante de Ing. en Sistemas de Información.
+#Gaston Salas.
 
+##Desarrollador web Front End.
+
+###Algunos comandos aprendidos.
+
+|Comando|Descripcion               |
+|-------|--------------------------|
+|clear  |limpiar pantalla          |
+|ls     |listar                    |
+|cd     |cambiar de directorio     |
+|pwd    |imprimir directorio actual|
+|echo   |imprimir texto en pantalla|
