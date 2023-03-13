@@ -1,5 +1,7 @@
 # Hola, mi nombre es *Gaston Salas*
 
+>Soy de *Argentina*,
+>
 > Actualmente estudio para ser *Desarrollador web Front End*.
 > 
 > Tambien estudio Ing. en Sistemas de Informacion.
@@ -13,3 +15,10 @@
 |cd     |cambiar de directorio     |
 |pwd    |imprimir directorio actual|
 |echo   |imprimir texto en pantalla|
+
+
+### Alias mas usados
+|Alias|Descripcion                      |
+|------------|--------------------------|
+|cl="clear"  |limpiar pantalla          |
+|mkd="mdkir" |crear carpeta o directorio|
