@@ -6,19 +6,3 @@
 > 
 > Tambien estudio Ing. en Sistemas de Informacion.
 
-### Algunos comandos aprendidos.
-
-|Comando|Descripcion               |
-|-------|--------------------------|
-|clear  |limpiar pantalla          |
-|ls     |listar                    |
-|cd     |cambiar de directorio     |
-|pwd    |imprimir directorio actual|
-|echo   |imprimir texto en pantalla|
-
-
-### Alias mas usados
-|Alias|Descripcion                      |
-|------------|--------------------------|
-|cl="clear"  |limpiar pantalla          |
-|mkd="mdkir" |crear carpeta o directorio|
