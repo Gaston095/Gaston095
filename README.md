@@ -1,4 +1,4 @@
-# Hola, mi nombre es *Gaston Salas*
+# Hola, soy *Gaston Salas* 👋
 
 >Soy de *Argentina*,
 >
