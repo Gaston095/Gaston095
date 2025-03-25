@@ -1,5 +1,5 @@
 # Hi, I'm *Gaston Salas* 👋
-I'm frontend development.
+I'm frontend developer.
 
 ## 🚀 Who am I?
 >I am passionate about frontend development with a focus on creating interactive and smooth user experiences. I love working with React and CSS to build modern web applications. My goal is to continuously improve my skills while enjoying the creative process.
