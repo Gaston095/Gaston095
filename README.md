@@ -1,8 +1,8 @@
 # Hi, I'm *Gaston Salas* 👋
+I'm frontend development.
 
->I'm Frontend Developer
->
->
+## 🚀 Who am I?
+>I am passionate about frontend development with a focus on creating interactive and smooth user experiences. I love working with React and CSS to build modern web applications. My goal is to continuously improve my skills while enjoying the creative process.
 
 ## 🛠️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,vite)](https://skillicons.dev)
